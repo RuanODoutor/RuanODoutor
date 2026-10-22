@@ -42,14 +42,7 @@ Acredito que *"ensinando é que se aprende"*.
 
   ![Microsoft Power Platform](https://img.shields.io/badge/Microsoft-Power_Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white)
   ![Oracle Java](https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ruanpabloodoutor&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanpabloodoutor&layout=compact&theme=tokyonight&hide_border=true)
-
+  
 ---
 
 ## 📬 Vamos nos conectar?
