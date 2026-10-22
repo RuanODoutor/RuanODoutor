@@ -48,5 +48,5 @@ Acredito que *"ensinando é que se aprende"*.
 ## 📬 Vamos nos conectar?
 
 - 💼 **LinkedIn:** [linkedin.com/in/ruanpabloodoutor](https://www.linkedin.com/in/ruanpabloodoutor)
-- 🎥 **YouTube:** [Ruan o Doutor](https://www.youtube.com/@ruanpabloodoutor)
-- 📸 **Instagram:** [@ruanpabloodoutor](https://www.instagram.com/ruanpabloodoutor)
+- 🎥 **YouTube:** [Ruan o Doutor](https://www.youtube.com/@RuanODoutor)
+- 📸 **Instagram:** [@ruanpabloodoutor](https://www.instagram.com/Ruanpabloodoutor)
