@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruanpabloodoutor)
 [![Universidade Positivo](https://img.shields.io/badge/Universidade_Positivo-ADS-blue?style=for-the-badge)](https://www.up.edu.br/)
 
-![Visitas](https://komarev.com/ghpvc/?username=ruanpabloodoutor&label=Visitas&color=0e75b6&style=flat)
-
 ## 👨‍🏫 De Professor e Coordenador a Desenvolvedor Full Stack em Formação
 
 Atualmente graduando em **Análise e Desenvolvimento de Sistemas pela Universidade Positivo**, trago da minha trajetória na educação e gestão o meu maior diferencial competitivo: **comunicação clara, alta capacidade didática e liderança**.
